@@ -1,0 +1,3 @@
+# inspiritis_app
+
+A new Flutter project.
